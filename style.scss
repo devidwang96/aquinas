@@ -1,5 +1,5 @@
 $basecolor: #ff5348;
-;
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -59,6 +59,7 @@ ul {
   &__blocks {
     .block {
       margin-top: 20px;
+      
       &__img {
         img {
           max-width: 200px;
@@ -81,7 +82,7 @@ ul {
   background-size: 100% auto;
   padding: 15px 0;
   position: relative;
-  background-image: url(/img/luchshij-hosting-otzyvy.jpg);
+  background-image: url(img/luchshij-hosting-otzyvy.jpg);
   transition: all 1s;
   color: #fff;
 
