@@ -8,7 +8,10 @@ ul {
 
 .header {
   background-color: #ff5348;
-  padding: 10px 0; }
+  padding: 10px 0; 
+  position: fixed;
+  width: 100%;
+  z-index: 100; }
   .header__left-links a {
     margin-right: 15px; }
   .header__right-links a {
