@@ -50,10 +50,10 @@ ul {
       line-height: 30px; }
 
 .welcome {
-  /* background-size: 100% auto; */
+  background-size: 100% auto;
   padding: 15px 0;
   position: relative;
-  /* background-image: url(img/luchshij-hosting-otzyvy.jpg); */
+  background-image: url(img/luchshij-hosting-otzyvy.jpg);
   transition: all 1s;
   color: #fff; }
   .welcome:before {
