@@ -8,7 +8,9 @@ ul {
 
 .header {
   background-color: #ff5348;
-  padding: 10px 0; }
+  padding: 10px 0; 
+  position: sticky;
+  width: 100%; }
   .header__left-links a {
     margin-right: 15px; }
   .header__right-links a {
